@@ -3,7 +3,7 @@
 	flex-direction: row;
 	justify-content: space-between;
 	gap: 20px;
-	flex-grow: grow;
+	flex-wrap: wrap;
 }
 .box {
 	width: 100px;
