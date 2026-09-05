@@ -1,2 +1,23 @@
-
-/* Your CSS Code here. */
+body {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	gap: 20px;
+	flex-grow: grow;
+}
+.box {
+	width: 100px;
+	height: 100px;
+	color: black;
+	border: 1px solid green;
+}
+#green {
+	background-color: green;
+	
+}
+#red {
+	background-color: red;
+}
+#blue {
+	background-color: blue;
+}
